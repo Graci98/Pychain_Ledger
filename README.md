@@ -38,4 +38,4 @@ class Block:
 ![Add Block](Images/add_block.png)
 
 ### Validate Chain
-![Validate Chain](validate_chain.png)
+![Validate Chain](Images/validate_chain.png)
